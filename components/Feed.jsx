@@ -50,7 +50,7 @@ function Feed() {
           required
           className="search_input peer"
         />
-        <button type="submit">Search</button>
+        <button type="submit" className="black_btn mx-2">Search</button>
       </form>
 
       <div className="mt-16 prompt_layout">
